@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ben-no-menoto",
  "yomi": "べんのめのとしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "弁乳母",
+  "desc": "弁乳母の家集。宮仕えの中での詠や、天王寺参詣、嵯峨野の花見の歌、人々との贈答を収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1272,6 +1277,6 @@
   "poems": 109,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
